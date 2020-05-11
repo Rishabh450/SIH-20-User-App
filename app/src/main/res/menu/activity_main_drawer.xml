@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/feed"
+        android:title="Feed"/>
+
+    <item
+        android:id="@+id/wanted"
+        android:title="Wanted" />
+
+    <item
+        android:id="@+id/file_a_fir"
+        android:title="File a FIR" />
+    <item
+        android:id="@+id/updatewanted"
+        android:title="Update Wanted" />
+
+    <item
+        android:id="@+id/imagesearch"
+        android:title="Image Search" />
+
+    <item
+        android:id="@+id/noc"
+        android:title="Apply for NOC" />
+
+    <item
+        android:id="@+id/complaint_box"
+        android:title="Complaint Box" />
+
+    <item
+        android:id="@+id/appointments"
+        android:title="Appointments" />
+
+    <item
+        android:id="@+id/account"
+        android:title="Account"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout" />
+
+</menu>
